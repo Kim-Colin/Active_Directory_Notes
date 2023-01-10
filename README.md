@@ -27,3 +27,9 @@ subdomains creates a two-way, implicit, transitive trust (trust other subdomains
 subdomains are added to origin domain (tree)
 multiple domains/trees (forest)
 
+groups manage sec on accs through inheritance of group policies
+
+org units are groups ofr administration of accounts
+
+group policies are permissions/restrictions for group of users
+
