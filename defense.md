@@ -31,3 +31,35 @@ Defensive Techniques
 - Baselining
 - System Hardening
 - Detection Methods
+
+
+##Lab
+Tasks: 
+
+ 
+
+Create OUs for four departments: 
+
+Marketing 
+
+HR 
+
+Engineering 
+
+Sales 
+
+Add 2 Users to each 
+
+Add a NOC_OPERATOR user as a Domain admin 
+
+Enable SeImpersonatePrivilege 
+
+Add a Substitute_NOC_OPERATOR as a standard user in Engineering 
+
+Enable SeImpersonatePrivilege 
+
+Enable RDP for NOC_OPERATOR and Substitute_NOC_OPERATOR 
+
+ 
+
+Create a configuration baseline for users using the configuration manager 
